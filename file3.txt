@@ -1,0 +1,6 @@
+git branch branch-name
+This command makes a new branch
+git branch
+This command lists all out all the branches with an asterik mark on the branch we currently on.
+git checkout branch-name
+Switch to a particular branch.
